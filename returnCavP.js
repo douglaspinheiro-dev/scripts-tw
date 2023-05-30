@@ -1,0 +1,1 @@
+$('#units_select_all').click();$('.unit-item-spear.has-input input').val(0);$('.unit-item-sword.has-input input').val(0);$('.unit-item-archer.has-input input').val(0);
